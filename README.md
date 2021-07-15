@@ -1,16 +1,26 @@
 ### Hi there 👋
+<h1 align="center">Hi 👋, I'm Arjun Ghimire</h1>
+<h3 align="center">Dedicated Full-Stack Developer</h3>
 
-<!--
-**ghimirear/ghimirear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on [new-jamm](https://github.com/ghimirear/new-jamm)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **Redux**
+
+- 👯 I’m looking to collaborate on [github](https://github.com/ghimirear)
+
+
+- 💬 Ask me about **Javascript, Node.Js, express.Js, React**
+
+- 📫 How to reach me **ghimirearjun15@gmail.com**
+
+- ⚡ Fun fact **Pharmacist turned into developer**
+
+<h3 align="left">Connect me on:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/arjun-ghimire/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="amjadelhassan" height="30" width="40" /></a>
+
+
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
