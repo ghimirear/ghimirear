@@ -32,3 +32,6 @@
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
 </p>
+ 
+ [![Arjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghimirear)](https://github.com/ghimirear/github-readme-stats)
+
