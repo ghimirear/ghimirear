@@ -17,7 +17,7 @@
 - ⚡ Fun fact **Pharmacist turned into a developer**
 
 <h3 align="left">Connect me on:</h3> 
-Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
+<a href="https://orioniconlibrary.com/icon/linkedin-6212">Linkedin Icon from Orion Icon Library - Free vector icons - SVG, PNG, & Icon Font</a>
 <p align="left">
 <a href="https://www.linkedin.com/in/arjun-ghimire/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="arjun ghimire" height="30" width="40" background-color="blue" /></a>
 
