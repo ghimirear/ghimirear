@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Arjun Ghimire</h1>
-<h3 align="center">Dedicated Full-Stack Developer</h3>
+<h3 align="center">Dedicated Full-Stack Web Developer</h3>
 
 - 🔭 I’m currently working on [new-jamm](https://github.com/ghimirear/new-jamm)
 
