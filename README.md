@@ -17,7 +17,7 @@
 - ⚡ Fun fact **Pharmacist turned into a developer**
 
 <h3 align="left">Connect me on:</h3> 
-
+[![Linkedin Badge](https://img.shields.io/badge/-arjun-ghimire?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjun-ghimire/)
     
 <p>
 
