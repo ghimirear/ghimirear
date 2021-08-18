@@ -27,7 +27,7 @@
 
     
 
-![Arjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghimirear&show_icons=true&theme=radical)
+![Arjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghimirear&show_icons=true&theme=tokyonight)
 
  </p>
  <h2> Languages and Tools</h2>
