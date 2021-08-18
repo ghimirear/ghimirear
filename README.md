@@ -47,4 +47,4 @@
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/5f7f0c371e212774e1f19cb2c88032eff76633e66b2856566e4d8f6c903cc2f0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7765627061636b2532302d2532333844443646392e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d7765627061636b266c6f676f436f6c6f723d626c61636b"><img src="https://camo.githubusercontent.com/5f7f0c371e212774e1f19cb2c88032eff76633e66b2856566e4d8f6c903cc2f0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7765627061636b2532302d2532333844443646392e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d7765627061636b266c6f676f436f6c6f723d626c61636b" data-canonical-src="https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&amp;style=for-the-badge&amp;logo=webpack&amp;logoColor=black" style="max-width:100%;"></a></p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghimirear&layout=compact)](https://github.com/ghimirear/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghimirear&layout=compact&theme=tokyonight)](https://github.com/ghimirear/github-readme-stats)
