@@ -17,7 +17,7 @@
 - ⚡ Fun fact **Pharmacist turned into a developer**
 
 <h3 align="left">Connect me on:</h3> 
-<a href="https://www.linkedin.com/in/arjun-ghimire/" rel="nofollow"><img src="https://img.shields.io/badge/https://www.linkedin.com/in/arjun-ghimire/?style=flat&amp;labelColor=0e76a8&amp;logo=linkedin&amp;logoColor=white" alt="Linkedin Badge" data-canonical-src="www.linkedin.com/in/arjun-ghimire/" style="max-width:100%;"></a>
+<a href="https://www.linkedin.com/in/arjun-ghimire/" rel="nofollow"><img src="https://img.shields.io/badge/https://www.linkedin.com/in/?style=flat&amp;labelColor=0e76a8&amp;logo=linkedin&amp;logoColor=white" alt="Linkedin Badge" data-canonical-src="www.linkedin.com/in/arjun-ghimire/" style="max-width:100%;"></a>
 <p align="left">
 <a href="https://www.linkedin.com/in/arjun-ghimire/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="arjun ghimire" height="30" width="40" hex="#0e76a8" style=flat&amp;labelColor=0e76a8&amp;logo=linkedin&amp;logoColor=white/></a>
 
