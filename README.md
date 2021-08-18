@@ -26,7 +26,7 @@
 <p>
 <a href="https://github.com/ghimirear/github-readme-stats"><img src="https://camo.githubusercontent.com/3b0e83f88ec55bc6d297bbdfa253af4e96a6bacf07a9dbf4ee85dd4b7b664186/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d72616d2d736168266c61796f75743d636f6d70616374267469746c655f636f6c6f723d32386561383026746578745f636f6c6f723d6633663366332662675f636f6c6f723d303934373835" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?ghimirear&amp;layout=compact&amp;title_color=28ea80&amp;text_color=f3f3f3&amp;bg_color=094785" style="max-width:100%;" /></a>
     
- ![Arjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghimirear&hide=contribs,prs)
+
 ![Arjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghimirear&show_icons=true&theme=radical)
 
  </p>
