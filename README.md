@@ -17,7 +17,7 @@
 - ⚡ Fun fact **Pharmacist turned into a developer**
 
 <h3 align="left">Connect me on:</h3> 
-<a href="https://www.linkedin.com/in/arjun-ghimire/" rel="nofollow"><img src="https://camo.githubusercontent.com/cd2eb3d1e5c58159b1315f53ba5817fae08d6ebe74ba2349b50982746fb5c535/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d49736c656d2d3065373661383f7374796c653d666c6174266c6162656c436f6c6f723d306537366138266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/-Islem-0e76a8?style=flat&amp;labelColor=0e76a8&amp;logo=linkedin&amp;logoColor=white" style="max-width:100%;"></a>
+<a href="https://www.linkedin.com/in/arjun-ghimire/" rel="nofollow"><img src="https://camo.githubusercontent.com/cd2eb3d1e5c58159b1315f53ba5817fae08d6ebe74ba2349b50982746fb5c535/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d49736c656d2d3065373661383f7374796c653d666c6174266c6162656c436f6c6f723d306537366138266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/-arjun-ghimire-0e76a8?style=flat&amp;labelColor=0e76a8&amp;logo=linkedin&amp;logoColor=white" style="max-width:100%;"></a>
 <p align="left">
 <a href="https://www.linkedin.com/in/arjun-ghimire/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="arjun ghimire" height="30" width="40" hex="#0e76a8" /></a>
 
