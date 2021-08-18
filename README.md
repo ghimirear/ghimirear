@@ -48,3 +48,6 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghimirear&layout=compact&theme=tokyonight)](https://github.com/ghimirear/github-readme-stats)
+#### Profile Visits 
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ghimirear.ghimirear)
